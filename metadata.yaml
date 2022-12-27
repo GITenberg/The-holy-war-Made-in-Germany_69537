@@ -1,0 +1,42 @@
+_repo: The-holy-war-Made-in-Germany_69537
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gottheil, Richard J. H. (Richard James Horatio)
+    alias: Gottheil, Richard James Horatio
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '5661'
+    url: http://www.gutenberg.org/2009/agents/5661
+    wikipedia: https://en.wikipedia.org/wiki/Richard_James_Horatio_Gottheil
+creator:
+  author:
+    agent_name: Snouck Hurgronje, C. (Christiaan)
+    aliases:
+    - Hurgronje, C. Snouck (Christiaan Snouck)
+    - Hurgronje, Christiaan Snouck
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '3340'
+    url: http://www.gutenberg.org/2009/agents/3340
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Christiaan_Snouck_Hurgronje
+    - https://nl.wikipedia.org/wiki/Christiaan_Snouck_Hurgronje
+description: ''
+gutenberg_issued: '2022-12-14'
+identifiers:
+  gutenberg: '69537'
+language: en
+pgterms:marc905: 20221022165650hurgronje
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: G. P. Putnam''s Sons,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The holy war: "Made in Germany"'
+url: http://www.gutenberg.org/ebooks/69537
